@@ -1,0 +1,21 @@
+{
+    "name": "vscode-blender-nokto",
+    "displayName": "vscode_blender_nokto",
+    "description": "VSCode theme that matches my Blender Adapta Nokto theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCode Blender Nokto Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VSCode Blender Nokto Theme-color-theme.json"
+            }
+        ]
+    }
+}
