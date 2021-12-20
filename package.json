@@ -11,11 +11,15 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+
+    "icon": "images/spellIcon.png",
+
     "keywords": [
         "theme",
         "adapta nokto",
         "furash",
-        "dark"
+        "dark",
+        "python theme"
     ],
     "categories": [
         "Themes"

@@ -18,6 +18,16 @@
 		//EDITOR
 		"editor.background": "#232d32",
 		"editor.foreground": "#ffffffdd",
+		"editorLineNumber.foreground": "#546E7A",
+		"editor.lineHighlightBorder": "#00000000",
+		"editor.lineHighlightBackground": "#191f2366",
+		"editor.wordHighlightBorder": "#00968844",
+		"editor.wordHighlightBackground": "#275049",
+		"editor.wordHighlightStrongBorder": "#009688",
+		"editor.wordHighlightStrongBackground": "#275049",
+		"editor.findMatchBorder": "#00ffdd00",
+		"editor.findMatchHighlightBorder": "#ea00ff00",
+		"editorLink.activeForeground": "#6cffdb",
 
 		// WINDOW
 		"window.activeBorder": "#273237",
@@ -44,10 +54,12 @@
 		"sideBarSectionHeader.foreground": "#8BB8CC",
 
 		// PEEK VIEW
-		"peekView.border": "#212B30",
-		"peekViewTitle.background": "#222D32",
-		"peekViewEditor.background": "#071A26",
-		"peekViewResult.background": "#071A26",
+		"peekView.border": "#4ccebc66",
+		"peekViewTitle.background": "#1f29289f",
+		"peekViewEditor.background": "#1f29289f",
+		"peekViewResult.background": "#1f29289f",
+		"peekViewEditor.matchHighlightBackground": "#b464ff6e",
+		"peekViewEditorGutter.background": "#1f29289f",
 
 
 		// SEARCH RESULTS
@@ -117,12 +129,13 @@
 		// SUGGEST WIDGET
 		"editorSuggestWidget.background": "#232d32",
 		"editorSuggestWidget.foreground": "#58717e",
-		"editorSuggestWidget.border": "#32cfac88",
-		"editorSuggestWidget.focusHighlightForeground": "#58717e",
-		"editorSuggestWidget.highlightForeground": "#32cfac88",
-		"editorSuggestWidget.selectedBackground": "#21846ebb",
-		"editorSuggestWidget.selectedForeground": "#34d0ad",
-		"editorSuggestWidget.selectedIconForeground": "#3dffec",
+		"editorSuggestWidget.border": "#32cfac33",
+		"editorSuggestWidget.focusHighlightForeground": "#f697ffd2",
+		"editorSuggestWidget.highlightForeground": "#f697ffd2",
+		"editorSuggestWidget.selectedBackground": "#21846E33",
+		"editorSuggestWidget.selectedForeground": "#f697ffd2",
+		"editorSuggestWidget.selectedIconForeground": "#f697ffd2",
+	
 
 		// TERMINAL
 		"panelTitle.inactiveForeground": "#ffffff88",
@@ -260,7 +273,7 @@
 				"meta.function-call",
 			],
 			"settings": {
-				"foreground": "#ffadfbc2"
+				"foreground": "#ff8af3"
 			}
 		},
 		{
