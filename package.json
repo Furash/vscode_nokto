@@ -3,7 +3,7 @@
     "displayName": "vscode_blender_nokto",
     "description": "VSCode theme that matches my Blender Adapta Nokto theme",
     "version": "1.0.0",
-    "publisher": "Furash",
+    "publisher": "cvitkovskiy",
     "repository": {
         "type": "git",
         "url": "https://github.com/Furash/vscode_nokto.git"
@@ -12,7 +12,7 @@
         "vscode": "^1.63.0"
     },
     "keywords": [
-        "theme",
+        "theme",W
         "adapta nokto",
         "furash",
         "dark"
