@@ -2,10 +2,21 @@
     "name": "vscode-blender-nokto",
     "displayName": "vscode_blender_nokto",
     "description": "VSCode theme that matches my Blender Adapta Nokto theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "Furash",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Furash/vscode_nokto.git"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
+    "keywords": [
+        "theme",
+        "adapta nokto",
+        "furash",
+        "dark"
+    ],
     "categories": [
         "Themes"
     ],
