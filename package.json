@@ -11,7 +11,7 @@
     "engines": {
         "vscode": "^1.63.0"
     },
-    "icon": "images/spellIcon.png",
+    "icon": "img/logo.jpg",
     "keywords": [
         "theme",
         "adapta nokto",
