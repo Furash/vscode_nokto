@@ -25,9 +25,16 @@
 		"editor.wordHighlightBackground": "#275049",
 		"editor.wordHighlightStrongBorder": "#009688",
 		"editor.wordHighlightStrongBackground": "#275049",
-		"editor.findMatchBorder": "#00ffdd00",
-		"editor.findMatchHighlightBorder": "#ea00ff00",
+		"editor.findMatchBorder": "#6cffdb55",
+		"editor.findMatchHighlightBorder": "#6cffdb66",
 		"editorLink.activeForeground": "#6cffdb",
+		"editorWidget.resizeBorder": "#3dffecaa",
+		"editorHoverWidget.highlightForeground": "#a311b1dd",
+		"editorHoverWidget.background": "#313f46",
+		"editor.selectionBackground": "#3dffea22",
+		"editor.selectionHighlightBorder": "#a311b1dd",
+		"editor.selectionHighlightBackground": "#a311b1aa",
+		"editor.inactiveSelectionBackground": "#3dffea0f",
 
 		// WINDOW
 		"window.activeBorder": "#273237",
@@ -60,12 +67,24 @@
 		"peekViewResult.background": "#1f29289f",
 		"peekViewEditor.matchHighlightBackground": "#b464ff6e",
 		"peekViewEditorGutter.background": "#1f29289f",
+		"peekViewResult.matchHighlightBackground": "#b464ff6e",
+		"peekViewResult.lineForeground": "#ffffffcc",
 
+		// BREADCRUMBS
+		"breadcrumb.foreground": "#4ccebc66",
+		"breadcrumb.focusForeground": "#4ccebc",
+		"breadcrumb.activeSelectionForeground": "#4ccebc",
+		"breadcrumb.background": "#232d32",
+
+		// SCROLLBAR
+		"scrollbarSlider.background": "#4ccebc33",
+		"scrollbarSlider.hoverBackground": "#4ccebc66",
+		"scrollbarSlider.activeBackground": "#4ccebcaa",
 
 		// SEARCH RESULTS
 		"editor.findMatchBackground": "#008D8050",
-		"editor.findMatchHighlightBackground": "#008D8050",
-		"editor.findRangeHighlightBackground": "#008D8050",
+		"editor.findMatchHighlightBackground": "#02b4a250",
+		"editor.findRangeHighlightBackground": "#02b4a250",
 
 		// TAB
 		"tab.inactiveBackground": "#222D32",
@@ -144,6 +163,8 @@
 		"panel.background": "#232d32",
 
 
+
+
 		"badge.background": "#21846e66",
 		"badge.foreground": "#3dffec"
 
@@ -158,7 +179,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#546E7A",
 			}
 			
 		},
@@ -268,12 +289,21 @@
 			}
 		},
 		{
+			"name": "Function",
+			"scope": [
+				"variable.parameter.function.language.special.self.python",
+			],
+			"settings": {
+				"foreground": "#ff8af3"
+			}
+		},
+		{
 			"name": "Function Call",
 			"scope": [
 				"meta.function-call",
 			],
 			"settings": {
-				"foreground": "#ff8af3"
+				"foreground": "#ffffffdd"
 			}
 		},
 		{
