@@ -28,9 +28,6 @@
 		"editor.findMatchBorder": "#6cffdb55",
 		"editor.findMatchHighlightBorder": "#6cffdb66",
 		"editorLink.activeForeground": "#6cffdb",
-		"editorWidget.resizeBorder": "#3dffecaa",
-		"editorHoverWidget.highlightForeground": "#a311b1dd",
-		"editorHoverWidget.background": "#313f46",
 		"editor.selectionBackground": "#3dffea22",
 		"editor.selectionHighlightBorder": "#a311b1dd",
 		"editor.selectionHighlightBackground": "#a311b1aa",
@@ -147,24 +144,44 @@
 
 		// SUGGEST WIDGET
 		"editorSuggestWidget.background": "#232d32",
-		"editorSuggestWidget.foreground": "#58717e",
-		"editorSuggestWidget.border": "#32cfac33",
+		"editorSuggestWidget.foreground": "#84a5b8",
+		"editorSuggestWidget.border": "#3dffec55",
 		"editorSuggestWidget.focusHighlightForeground": "#f697ffd2",
 		"editorSuggestWidget.highlightForeground": "#f697ffd2",
 		"editorSuggestWidget.selectedBackground": "#21846E33",
 		"editorSuggestWidget.selectedForeground": "#f697ffd2",
 		"editorSuggestWidget.selectedIconForeground": "#f697ffd2",
+
+		// WIDGET
+		"editorWidget.foreground": "#3dffecdd",
+		"editorWidget.background": "#2b373d",
+		"editorWidget.border": "#ff0000",
+		"editorWidget.resizeBorder": "#3dffecaa",
+
+		
+		// HOVER WIDGET
+		"editorHoverWidget.foreground": "#84a5b8",
+		"editorHoverWidget.border": "#3dffec55",
+		"editorHoverWidget.highlightForeground": "#3dffecdd",
+		"editorHoverWidget.background": "#313f46",
+
+		// BRACKET MATCH
+		"editorBracketMatch.background": "#ec2cfd28",
+		"editorBracketMatch.border": "#e61cf891",
+
+		"sideBar.border": "#313f46",
 	
 
 		// TERMINAL
 		"panelTitle.inactiveForeground": "#ffffff88",
 		"terminal.border": "#32cfac88",
-		"panel.dropBorder": "#ff0000",	
+		"panel.dropBorder": "#3dffec",	
 		"panel.background": "#232d32",
 
+		// GUTTER
+		"editorGutter.background": "#191f2366",
 
-
-
+		//BADGE
 		"badge.background": "#21846e66",
 		"badge.foreground": "#3dffec"
 
