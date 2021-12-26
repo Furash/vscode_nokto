@@ -2,7 +2,7 @@
     "name": "vscode-blender-nokto",
     "displayName": "vscode_blender_nokto",
     "description": "VSCode theme that matches my Blender Adapta Nokto theme",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "publisher": "cvitkovskiy",
     "repository": {
         "type": "git",
