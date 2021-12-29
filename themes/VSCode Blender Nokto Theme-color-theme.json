@@ -4,10 +4,10 @@
 	"colors": {
 
 		"focusBorder": "#1A2226",
-		"selection.background": "#212B30",
 		"widget.shadow": "#000000",
 		
 		// INPUTS
+		"selection.background": "#456572",
 		"input.background": "#232d32",
 		"input.foreground": "#C3CBCD",
 		"input.placeholderForeground": "#72acc7",
