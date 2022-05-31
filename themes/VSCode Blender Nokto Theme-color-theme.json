@@ -168,6 +168,12 @@
 		// BRACKET MATCH
 		"editorBracketMatch.background": "#ec2cfd28",
 		"editorBracketMatch.border": "#e61cf891",
+		"editorBracketHighlight.foreground1": "#00ffffaa",
+		"editorBracketHighlight.foreground2": "#00ffffaa",
+		"editorBracketHighlight.foreground3": "#00ffffaa",
+		"editorBracketHighlight.foreground4": "#00ffffaa",
+		"editorBracketHighlight.foreground5": "#00ffffaa",
+		"editorBracketHighlight.foreground6": "#00ffffaa",
 
 		"sideBar.border": "#313f46",
 	
